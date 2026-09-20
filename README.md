@@ -36,6 +36,6 @@ green when captions are ready → click it → practice sentence by sentence.
 
 | Release | Asset | For |
 |---|---|---|
-| [`v0.5.0-arch`](https://github.com/Local-DE-Coach/public/releases/tag/v0.5.0-arch) | `shadowing-engine-0.5.0-archlinux.zip` | Arch Linux |
+| [`v0.5.1-arch`](https://github.com/Local-DE-Coach/public/releases/tag/v0.5.1-arch) | `shadowing-engine-0.5.1-archlinux.zip` | Arch Linux — CPU-only build, zero NVIDIA/CUDA libs |
 
 Upstream source & full docs: <https://github.com/Local-DE-Coach/Shadowing_Engine>

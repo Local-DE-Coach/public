@@ -1,6 +1,6 @@
 pkgbase = shadowing-engine
 pkgname = shadowing-engine
-pkgver = 0.5.0
+pkgver = 0.5.1
 pkgrel = 1
 epoch =
 pkgdesc = DLLS — Deutsch Local Language Shadowing · one-command local shadowing trainer (forced alignment + GOP, learner audio never leaves the PC)
@@ -15,7 +15,7 @@ depends = yt-dlp
 optdepends = uv: fast first-run python env provisioning (strongly recommended)
 optdepends = chromium: browser with zero-click extension loading (--load-extension)
 optdepends = google-chrome: use the /setup wizard path on branded builds
-source = shadowing-engine-0.5.0.zip::https://github.com/Local-DE-Coach/public/releases/download/v0.5.0-arch/shadowing-engine-0.5.0-archlinux.zip
-sha256sums = 3d8e6d1834880b35bb7221b27d2f071e572f19ca92e9023117b451f6bdb61869
+source = shadowing-engine-0.5.1.zip::https://github.com/Local-DE-Coach/public/releases/download/v0.5.1-arch/shadowing-engine-0.5.1-archlinux.zip
+sha256sums = db548f9092df2a83f20474c94fdd302d86c143501d0c67ddba9644f5bb658dce
 
 pkgname = shadowing-engine
