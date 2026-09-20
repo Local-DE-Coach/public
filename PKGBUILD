@@ -3,7 +3,7 @@
 # btop-style app: `dlls` boots the local scoring backend + terminal monitor;
 # Ctrl+C stops everything. YouTube sidepanel extension bundled (extension/).
 pkgname=shadowing-engine
-pkgver=0.5.1
+pkgver=0.6.0
 pkgrel=1
 pkgdesc="DLLS — Deutsch Local Language Shadowing · one-command local shadowing trainer (forced alignment + GOP, learner audio never leaves the PC)"
 arch=(any)
@@ -17,7 +17,7 @@ optdepends=(
 )
 install=
 source=("$pkgname-$pkgver.zip::https://github.com/Local-DE-Coach/public/releases/download/v$pkgver-arch/$pkgname-$pkgver-archlinux.zip")
-sha256sums=('db548f9092df2a83f20474c94fdd302d86c143501d0c67ddba9644f5bb658dce')  # shadowing-engine-0.5.1-archlinux.zip
+sha256sums=('81d16a20da8fe391ad099349f2d04ccc8fc83d67aafcf1d805826b1994de3cff')  # shadowing-engine-0.6.0-archlinux.zip
 
 package() {
   cd "$srcdir/$pkgname-$pkgver"
